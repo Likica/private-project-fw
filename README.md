@@ -5,9 +5,9 @@
 <br></br>
 
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/likica/private-project-fw" />
-    <img src="https://img.shields.io/github/issues/likica/private-project-fw" />
-    <img src="https://img.shields.io/github/last-commit/likica/private-project-fw" >
+    <img src="https://img.shields.io/github/repo-size/likica/'private-project-fw'"/>
+    <img src="https://img.shields.io/github/issues/likica/'private-project-fw'"/>
+    <img src="https://img.shields.io/github/last-commit/likica/'private-project-fw'">
     </a>
 </p>
   
