@@ -1,0 +1,19 @@
+{
+  "name": "private-project-fw",
+  "version": "1.0.0",
+  "description": "<h1 align='center'>Template Website for Transportation/Logistics Company</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Likica/private-project-fw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Likica/private-project-fw/issues"
+  },
+  "homepage": "https://github.com/Likica/private-project-fw#readme"
+}
