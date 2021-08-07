@@ -55,7 +55,6 @@ This is private project- creating transportation and logistics company's website
 
   ## Contributing
   ##### [Back to Table of Contents](#Table-of-Contents)
- **No contributions accepted at this time!**
 
   ## Tests
   #### [Back to Table of Contents](#Table-of-Contents)
