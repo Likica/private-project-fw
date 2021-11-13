@@ -1,6 +1,6 @@
 <h1 align='center'>Template Website for Transportation/Logistics Company</h1>
 
-### By likica * [Email me](mailto:fahrija_wyroski@live.com) * 
+### By likica * [Email me](mailto:codefin9@hotmail.com) * 
   * [Deployed Project Link]() 
 <br></br>
 
@@ -62,7 +62,7 @@ This is private project- creating transportation and logistics company's website
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  * If you have any questions, please contact me at fahrija_wyroski@live.com
+  * If you have any questions, please [Email me](mailto:codefin9@hotmail.com)
 
   ## License 
   ##### [Back to Table of Contents](#Table-of-Contents)
